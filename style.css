@@ -190,7 +190,7 @@ body{
 @media screen and (max-width:900px){
 
     iframe{
-      height: 500px;
+      height: 480px;
     }
       .slide-container{
           padding-right: 35%;
